@@ -79,4 +79,4 @@ curl -X DELETE http://localhost:8080/agent/all
 - [x] 20170807 Server side code base with rest interface.
 
 
-This project is inspired by [naivechain](https://github.com/lhartikk/naivechain). 
+This project is inspired by [naivechain](https://github.com/Vector1002). 
